@@ -1,4 +1,4 @@
-API_TOKEN = '1588891371:AAF3ZfKJDdCbWq5YzsxHIBkFxvfuB2tCuZc'
+API_TOKEN = 'Your Telegram bot TOKEN here'
 
 URL = "https://yandex.ru/news"
 
